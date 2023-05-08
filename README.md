@@ -13,8 +13,8 @@
 - [TitleRun](https://titlerun.xyz/) — The game that only exists in your title bar 👾
 
 ## I like 🌎
-- NodeJS, JavaScript/Typescript
-- React, Vue
+- JavaScript/Typescript
+- React, Solid, Vue
 - Tailwind
 - Python, (sklearn, Huggingface, etc.)
-- Go, Rust
+- Rust, Go
